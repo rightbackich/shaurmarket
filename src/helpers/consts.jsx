@@ -1,11 +1,1 @@
-import React from 'react';
-
-const consts = () => {
-    return (
-        <div>
-
-        </div>
-    );
-};
-
-export default consts;
+export const JSON_API = 'http://localhost:8000/products'

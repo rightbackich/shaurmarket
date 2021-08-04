@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ProductContext = () => {
+const ProductCard = () => {
     return (
         <div>
 
@@ -8,4 +8,4 @@ const ProductContext = () => {
     );
 };
 
-export default ProductContext;
+export default ProductCard;
